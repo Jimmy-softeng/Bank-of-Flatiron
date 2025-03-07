@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bank of Flatiron
 
 Welcome to the Bank of Flatiron, where you can trust us with all your financial
@@ -133,4 +134,6 @@ Example Response:
 ```json
 {}
 ```
+=======
+>>>>>>> ff9ca925847f83f1cbe629e50e82f4508de0f4ea
 # Bank-of-Flatiron
